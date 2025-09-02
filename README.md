@@ -33,6 +33,9 @@ Here are some interesting repositories related to ML:
 * https://github.com/lukasmasuch/best-of-ml-python
 * https://github.com/microsoft/ML-For-Beginners
 
+## License
+This repository is licensed under the MIT. See the LICENSE file for details.
+
 ## Contact
 
 For questions or feedback concerning any materials in the repository, please contact:
