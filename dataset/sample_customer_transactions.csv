@@ -1,0 +1,51 @@
+transaction_id,transaction_date,customer_id,product_id,product_name,category,quantity,unit_price,store_location,payment_method,delivery_method,discount_applied,demand_type,order_status,customer_rating
+T0001,2024-08-13,C4310,P117,Beverage Product 6,beverage,5,17.94,New York,cash,home delivery,3.64,seasonal,cancelled,4
+T0002,2024-11-22,C6417,P749,Canned Product 11,canned,10,7.04,Houston,credit card,pickup,1.67,promotional,completed,5
+T0003,2024-10-28,C3303,P640,Beverage Product 3,beverage,1,14.19,Chicago,cash,digital download,2.32,seasonal,completed,2
+T0004,2024-10-16,C7175,P126,Canned Product 3,canned,6,1.51,Chicago,online,home delivery,0.28,promotional,pending,4
+T0005,2024-03-30,C4760,P730,Canned Product 14,canned,2,13.97,Phoenix,cash,home delivery,4.17,regular,completed,4
+T0006,2024-03-11,C2428,P179,Beverage Product 9,beverage,7,4.79,Los Angeles,cash,pickup,4.6,seasonal,pending,4
+T0007,2024-05-27,C5791,P523,Dairy Product 3,dairy,9,13.2,New York,online,digital download,2.86,regular,cancelled,5
+T0008,2024-09-02,C5584,P303,Snacks Product 7,snacks,3,2.59,Chicago,credit card,digital download,1.5,promotional,pending,1
+T0009,2024-04-15,C3174,P395,Frozen Product 6,frozen,1,4.23,Los Angeles,cash,digital download,3.22,seasonal,completed,4
+T0010,2024-09-17,C1560,P143,Frozen Product 14,frozen,8,15.36,Chicago,online,pickup,2.89,seasonal,cancelled,5
+T0011,2024-01-25,C5446,P118,Canned Product 7,canned,6,5.55,Houston,credit card,pickup,2.99,seasonal,cancelled,4
+T0012,2024-10-06,C9638,P517,Canned Product 16,canned,1,10.96,Phoenix,online,home delivery,3.94,seasonal,pending,5
+T0013,2024-10-28,C1505,P131,Frozen Product 8,frozen,4,18.36,Phoenix,credit card,home delivery,3.19,regular,cancelled,2
+T0014,2024-01-22,C6004,P732,Snacks Product 17,snacks,9,6.99,New York,online,home delivery,3.86,seasonal,cancelled,2
+T0015,2024-02-14,C1651,P874,Snacks Product 4,snacks,10,19.62,New York,cash,pickup,3.06,promotional,pending,4
+T0016,2024-11-01,C9950,P867,Canned Product 12,canned,10,5.52,Los Angeles,online,pickup,3.23,seasonal,completed,3
+T0017,2024-09-18,C1143,P409,Canned Product 3,canned,8,16.48,Los Angeles,credit card,digital download,1.31,seasonal,cancelled,3
+T0018,2024-02-26,C1983,P835,Snacks Product 5,snacks,6,17.36,Houston,cash,home delivery,4.01,seasonal,completed,1
+T0019,2024-05-12,C3221,P481,Beverage Product 10,beverage,4,2.73,New York,cash,home delivery,2.87,seasonal,pending,3
+T0020,2024-03-23,C8152,P329,Dairy Product 11,dairy,7,4.6,Phoenix,cash,digital download,3.77,promotional,pending,2
+T0021,2024-03-26,C9515,P352,Snacks Product 9,snacks,1,11.88,Los Angeles,cash,pickup,3.18,regular,cancelled,5
+T0022,2024-05-16,C3237,P867,Dairy Product 16,dairy,3,10.21,Los Angeles,cash,digital download,4.15,regular,pending,5
+T0023,2024-02-13,C9908,P476,Dairy Product 11,dairy,3,6.06,Los Angeles,cash,digital download,3.97,regular,cancelled,3
+T0024,2024-09-22,C7836,P124,Canned Product 12,canned,7,7.35,Chicago,cash,pickup,4.34,promotional,cancelled,2
+T0025,2024-11-22,C3849,P229,Frozen Product 11,frozen,2,6.21,New York,online,digital download,3.91,seasonal,completed,4
+T0026,2024-08-19,C2206,P673,Beverage Product 2,beverage,8,19.2,Phoenix,cash,home delivery,2.37,seasonal,cancelled,1
+T0027,2024-05-22,C6694,P247,Beverage Product 2,beverage,2,13.3,New York,credit card,digital download,4.07,promotional,cancelled,3
+T0028,2024-09-20,C4341,P103,Snacks Product 9,snacks,5,15.82,Los Angeles,cash,digital download,0.5,seasonal,completed,3
+T0029,2024-07-12,C5972,P759,Beverage Product 4,beverage,4,17.16,Houston,cash,pickup,3.27,regular,cancelled,3
+T0030,2024-04-01,C4962,P195,Beverage Product 1,beverage,5,3.43,Chicago,cash,digital download,0.62,seasonal,cancelled,3
+T0031,2024-09-05,C5413,P459,Dairy Product 16,dairy,8,18.65,Los Angeles,online,digital download,1.94,regular,completed,3
+T0032,2024-08-23,C5850,P404,Dairy Product 12,dairy,4,7.26,Chicago,credit card,home delivery,4.55,regular,pending,3
+T0033,2024-04-25,C9242,P724,Canned Product 17,canned,2,15.84,Los Angeles,online,digital download,1.08,regular,completed,5
+T0034,2024-02-18,C8392,P583,Frozen Product 12,frozen,7,11.02,Chicago,credit card,digital download,0.33,promotional,pending,5
+T0035,2024-11-09,C4609,P614,Canned Product 9,canned,5,11.63,Chicago,online,home delivery,1.79,regular,cancelled,4
+T0036,2024-12-01,C3422,P257,Snacks Product 12,snacks,8,8.89,Houston,credit card,pickup,0.72,regular,pending,5
+T0037,2024-05-27,C6386,P547,Dairy Product 18,dairy,8,8.09,New York,cash,home delivery,0.63,regular,cancelled,1
+T0038,2024-09-11,C4242,P486,Beverage Product 11,beverage,4,11.84,New York,online,home delivery,0.81,seasonal,pending,4
+T0039,2024-07-14,C5400,P411,Frozen Product 13,frozen,10,12.19,Phoenix,online,pickup,1.31,regular,cancelled,3
+T0040,2024-06-22,C3967,P695,Dairy Product 7,dairy,2,13.67,Los Angeles,online,digital download,1.12,promotional,completed,5
+T0041,2024-11-17,C1737,P879,Dairy Product 17,dairy,7,7.27,Los Angeles,credit card,digital download,4.09,promotional,cancelled,4
+T0042,2024-08-02,C3536,P812,Dairy Product 18,dairy,8,11.64,Phoenix,online,digital download,3.22,promotional,pending,1
+T0043,2024-12-27,C9666,P986,Frozen Product 1,frozen,6,14.28,Phoenix,credit card,home delivery,2.03,promotional,completed,4
+T0044,2024-10-03,C8021,P214,Canned Product 15,canned,7,11.87,New York,cash,pickup,0.49,seasonal,pending,1
+T0045,2024-05-07,C5406,P373,Snacks Product 1,snacks,1,7.75,Houston,online,pickup,2.31,seasonal,pending,2
+T0046,2024-07-16,C3608,P492,Canned Product 3,canned,4,15.69,Phoenix,online,digital download,2.44,promotional,pending,1
+T0047,2024-10-07,C8504,P101,Snacks Product 18,snacks,3,1.89,Houston,credit card,home delivery,3.5,seasonal,pending,2
+T0048,2024-11-17,C1618,P391,Beverage Product 19,beverage,7,5.13,Chicago,credit card,pickup,3.97,seasonal,pending,5
+T0049,2024-12-17,C2410,P139,Dairy Product 19,dairy,5,18.83,Los Angeles,online,digital download,1.88,regular,completed,2
+T0050,2024-11-07,C9997,P268,Frozen Product 18,frozen,9,14.19,Chicago,online,home delivery,4.78,regular,cancelled,3
