@@ -2,9 +2,9 @@
 
 ## Description
 This lecture is part of Operation Research (OR) 1 course given at [Master Program](https://en.uit.no/education/program/446264/industrial_engineering_-_master) at Department of Industrial Engineering, [UiT The Arctic University of Norway](https://en.uit.no/). 
-In this lecture, students will learn about basic concepts of ML and its applications in the OR field. Lecture materials including code examples, dataset, and other resources are provided in this repository. 
+In this lecture, students will learn about basic concepts of ML and its applications as predictive analytic tools. Lecture materials including codes, dataset, and slides are provided in this repository. 
 
-For exercise purposes, it is recommended that students can follow the instructions below. 
+For exercise purpose, it is recommended that students can follow the instructions below. 
 
 
 ## Getting Started
@@ -16,15 +16,17 @@ Students may use the following platforms to run the programs:
 
 ### Installation
 
-1. Clone the repository:
-2. Create a virtual environment and install dependencies:
+Clone the repository:
 
+```terminal
+git clone https://github.com/wanprabu/machine-learning-or.git
+```
 
 ## Usage
 
 * See the `code/` folder for examples discussed in the lecture
 * Use the data in `dataset/` for exercises
-* Refer to `slides` and `notes` for further explanation
+* Refer to `slides` for further explanation
 
 ## Other Github Repos for ML
 
